@@ -1,0 +1,4 @@
+resources\base.class
+pageobjects\StudentLogin.class
+QualicoachProject\App.class
+pageobjects\AdminLogin.class
